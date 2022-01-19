@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Colby Covington
+  name: c57
   email: colbyc1988@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -127,7 +127,6 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
-      author: c57
   -
     scope:
       path: _drafts
